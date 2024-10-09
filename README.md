@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AtharvSutar05
-- 👀 I’m interested in Problem Solving with DSA in C++
+- 👀 I’m interested in solving DSA Problems in C++ language
 - 🌱 I’m currently learning Android Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
