@@ -52,10 +52,6 @@ Real-time meeting application backend using Socket.io.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtharvSutar05&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvSutar05&theme=tokyonight" />
 </p>
 
