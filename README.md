@@ -65,13 +65,3 @@ Real-time meeting application backend using Socket.io.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharv-sutar-b0864539b/)
 
----
-
-## 💡 Current Focus
-
-```text
-Flutter          ████████████░░░░ 75%
-Node.js          ████████░░░░░░░░ 50%
-MongoDB          ███████░░░░░░░░░ 45%
-Firebase         ███░░░░░░░░░░░░░ 20%
-System Design    ███░░░░░░░░░░░░░ 20%
