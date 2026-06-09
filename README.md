@@ -41,6 +41,9 @@ Flutter Developer | Full Stack Learner | Mobile App Enthusiast
 ### 📱 Digital Wellbeing App
 Track app usage, screen time analytics, usage limits, and productivity insights.
 
+### Task Managemeer
+Offline tasks creation using sqflite with auto-sync feature. 
+
 ### 🛒 Shopping List App
 Full-stack shopping list application built with Flutter and Node.js.
 
