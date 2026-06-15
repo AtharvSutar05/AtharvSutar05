@@ -5,8 +5,6 @@
 **Flutter Developer · Full Stack Learner · Building Things That Matter**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-sutar-b0864539b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvSutar05)
-![Profile Views](https://komarev.com/ghpvc/?username=AtharvSutar05&style=flat-square&color=02569B)
 
 </div>
 
