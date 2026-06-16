@@ -4,8 +4,6 @@
 
 **Flutter Developer · Full Stack Learner · Building Things That Matter**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-sutar-b0864539b/)
-
 </div>
 
 ---
@@ -64,13 +62,6 @@ Offline-first task management with local SQLite storage and automatic background
 > Flutter · Node.js · Express · MongoDB
 
 Full-stack app with a Flutter frontend and a RESTful Node.js backend. Shared lists, real-time updates, and persistent cloud storage.
-
----
-
-### 🎥 SnatchBE
-> Node.js · Socket.io · Express
-
-Backend for a real-time meeting/video application. Handles room management, signaling, and concurrent connections via WebSockets.
 
 ---
 
