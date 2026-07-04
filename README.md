@@ -2,7 +2,7 @@
 
 # Hey, I'm Atharv 👋
 
-**Flutter Developer · Full Stack Learner · Building Things That Matter**
+**Flutter Developer · Full Stack Learner**
 
 </div>
 
@@ -11,12 +11,6 @@
 ## About Me
 
 I'm a mobile-first developer who loves turning ideas into polished apps. My primary focus is **Flutter**, but I'm steadily expanding into full-stack territory with **Node.js** and **Express** on the backend.
-
-Right now I'm:
-- 🏗️ Building a **Construction Site Reporting System** — a full-stack project with a Node.js + TypeScript backend (JWT auth, company management, member invites) and a Flutter frontend in progress
-- 📱 Maintaining a **Digital Wellbeing App** — screen time tracking, usage limits, and productivity insights
-- 🌱 Going deeper into **REST API design**, **TypeScript**, and **Clean Architecture**
-
 ---
 
 ## Tech Stack
